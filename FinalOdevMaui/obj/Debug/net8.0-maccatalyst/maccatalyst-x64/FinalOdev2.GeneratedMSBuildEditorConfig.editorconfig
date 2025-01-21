@@ -1,0 +1,89 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = FinalOdevHazirlikMaui
+build_property.ProjectDir = C:\Users\eminedemir\Downloads\BSM322-Baha2024-FP2-master\BSM322-Baha2024-FP2-master\FinalOdevMaui\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+
+[C:/Users/eminedemir/Downloads/BSM322-Baha2024-FP2-master/BSM322-Baha2024-FP2-master/FinalOdevMaui/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FinalOdevHazirlikMaui.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/eminedemir/Downloads/BSM322-Baha2024-FP2-master/BSM322-Baha2024-FP2-master/FinalOdevMaui/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FinalOdevHazirlikMaui.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/eminedemir/Downloads/BSM322-Baha2024-FP2-master/BSM322-Baha2024-FP2-master/FinalOdevMaui/Ayarlar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FinalOdevHazirlikMaui.Ayarlar.xaml
+build_metadata.AdditionalFiles.TargetPath = Ayarlar.xaml
+build_metadata.AdditionalFiles.RelativePath = Ayarlar.xaml
+
+[C:/Users/eminedemir/Downloads/BSM322-Baha2024-FP2-master/BSM322-Baha2024-FP2-master/FinalOdevMaui/HavaDurumu.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FinalOdevHazirlikMaui.HavaDurumu.xaml
+build_metadata.AdditionalFiles.TargetPath = HavaDurumu.xaml
+build_metadata.AdditionalFiles.RelativePath = HavaDurumu.xaml
+
+[C:/Users/eminedemir/Downloads/BSM322-Baha2024-FP2-master/BSM322-Baha2024-FP2-master/FinalOdevMaui/Home.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FinalOdevHazirlikMaui.Home.xaml
+build_metadata.AdditionalFiles.TargetPath = Home.xaml
+build_metadata.AdditionalFiles.RelativePath = Home.xaml
+
+[C:/Users/eminedemir/Downloads/BSM322-Baha2024-FP2-master/BSM322-Baha2024-FP2-master/FinalOdevMaui/Kurlar.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FinalOdevHazirlikMaui.Kurlar.xaml
+build_metadata.AdditionalFiles.TargetPath = Kurlar.xaml
+build_metadata.AdditionalFiles.RelativePath = Kurlar.xaml
+
+[C:/Users/eminedemir/Downloads/BSM322-Baha2024-FP2-master/BSM322-Baha2024-FP2-master/FinalOdevMaui/MainPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FinalOdevHazirlikMaui.MainPage.xaml
+build_metadata.AdditionalFiles.TargetPath = MainPage.xaml
+build_metadata.AdditionalFiles.RelativePath = MainPage.xaml
+
+[C:/Users/eminedemir/Downloads/BSM322-Baha2024-FP2-master/BSM322-Baha2024-FP2-master/FinalOdevMaui/News.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FinalOdevHazirlikMaui.News.xaml
+build_metadata.AdditionalFiles.TargetPath = News.xaml
+build_metadata.AdditionalFiles.RelativePath = News.xaml
+
+[C:/Users/eminedemir/Downloads/BSM322-Baha2024-FP2-master/BSM322-Baha2024-FP2-master/FinalOdevMaui/NewsDetail.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FinalOdevHazirlikMaui.NewsDetail.xaml
+build_metadata.AdditionalFiles.TargetPath = NewsDetail.xaml
+build_metadata.AdditionalFiles.RelativePath = NewsDetail.xaml
+
+[C:/Users/eminedemir/Downloads/BSM322-Baha2024-FP2-master/BSM322-Baha2024-FP2-master/FinalOdevMaui/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FinalOdevHazirlikMaui.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/eminedemir/Downloads/BSM322-Baha2024-FP2-master/BSM322-Baha2024-FP2-master/FinalOdevMaui/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FinalOdevHazirlikMaui.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/eminedemir/Downloads/BSM322-Baha2024-FP2-master/BSM322-Baha2024-FP2-master/FinalOdevMaui/ToDoList.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = FinalOdevHazirlikMaui.ToDoList.xaml
+build_metadata.AdditionalFiles.TargetPath = ToDoList.xaml
+build_metadata.AdditionalFiles.RelativePath = ToDoList.xaml

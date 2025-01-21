@@ -1,0 +1,414 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\models\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:models\\newsservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\models\\firebaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:models\\firebaseservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\news.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:news.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\newsdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:newsdetail.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\newsdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:newsdetail.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\todolist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:todolist.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\havadurumu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:havadurumu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\news.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:news.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\kurlar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:kurlar.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:home.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\models\\dl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:models\\dl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:models\\currency.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\models\\bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:models\\bl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\kurlar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:kurlar.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:home.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|c:\\users\\eminedemir\\downloads\\bsm322-baha2024-fp2-master\\bsm322-baha2024-fp2-master\\finalodevmaui\\havadurumu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{54AC3A36-4FAC-4B51-81AE-6A729318A90A}|FinalOdev2.csproj|solutionrelative:havadurumu.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\FinalOdev2.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:FinalOdev2.csproj.user||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BL.cs",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Models\\BL.cs",
+              "RelativeDocumentMoniker": "Models\\BL.cs",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Models\\BL.cs",
+              "RelativeToolTip": "Models\\BL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:45:58.27Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewsService.cs",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Models\\NewsService.cs",
+              "RelativeDocumentMoniker": "Models\\NewsService.cs",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Models\\NewsService.cs",
+              "RelativeToolTip": "Models\\NewsService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAYwAwAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:45:48.494Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "App.g.i.cs",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "RelativeToolTip": "obj\\Debug\\net8.0-windows10.0.19041.0\\win10-x64\\Platforms\\Windows\\App.g.i.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwBMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T22:16:43.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NewsDetail.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\NewsDetail.xaml.cs",
+              "RelativeDocumentMoniker": "NewsDetail.xaml.cs",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\NewsDetail.xaml.cs",
+              "RelativeToolTip": "NewsDetail.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T23:51:03.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Kurlar.xaml",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Kurlar.xaml",
+              "RelativeDocumentMoniker": "Kurlar.xaml",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Kurlar.xaml",
+              "RelativeToolTip": "Kurlar.xaml",
+              "ViewState": "AgIAAAgAAAAAAAAAAMBdwB4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T17:24:28.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "MauiProgram.cs",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\MauiProgram.cs",
+              "RelativeToolTip": "MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:24:28.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "News.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\News.xaml.cs",
+              "RelativeDocumentMoniker": "News.xaml.cs",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\News.xaml.cs",
+              "RelativeToolTip": "News.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:24:28.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HavaDurumu.xaml",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\HavaDurumu.xaml",
+              "RelativeDocumentMoniker": "HavaDurumu.xaml",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\HavaDurumu.xaml",
+              "RelativeToolTip": "HavaDurumu.xaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAMBdwAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T17:24:27.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToDoList.xaml",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\ToDoList.xaml",
+              "RelativeDocumentMoniker": "ToDoList.xaml",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\ToDoList.xaml",
+              "RelativeToolTip": "ToDoList.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBZwA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T17:24:28.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FirebaseServices.cs",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Models\\FirebaseServices.cs",
+              "RelativeDocumentMoniker": "Models\\FirebaseServices.cs",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Models\\FirebaseServices.cs",
+              "RelativeToolTip": "Models\\FirebaseServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:32:43.296Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAsAAAAAAAAAAMBdwAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T17:24:28.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NewsDetail.xaml",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\NewsDetail.xaml",
+              "RelativeDocumentMoniker": "NewsDetail.xaml",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\NewsDetail.xaml",
+              "RelativeToolTip": "NewsDetail.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T17:24:28.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "DL.cs",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Models\\DL.cs",
+              "RelativeDocumentMoniker": "Models\\DL.cs",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Models\\DL.cs",
+              "RelativeToolTip": "Models\\DL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBZwCQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:46:00.749Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\MainPage.xaml.cs",
+              "RelativeToolTip": "MainPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:24:28.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "News.xaml",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\News.xaml",
+              "RelativeDocumentMoniker": "News.xaml",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\News.xaml",
+              "RelativeToolTip": "News.xaml",
+              "ViewState": "AgIAAC0AAAAAAAAAACBjwDwAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T17:24:28.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Currency.cs",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Models\\Currency.cs",
+              "RelativeDocumentMoniker": "Models\\Currency.cs",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Models\\Currency.cs",
+              "RelativeToolTip": "Models\\Currency.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:45:59.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Home.xaml",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Home.xaml",
+              "RelativeDocumentMoniker": "Home.xaml",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Home.xaml",
+              "RelativeToolTip": "Home.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T17:24:28.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T18:34:42.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAACBjwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-01-13T18:34:46.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Kurlar.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Kurlar.xaml.cs",
+              "RelativeDocumentMoniker": "Kurlar.xaml.cs",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Kurlar.xaml.cs",
+              "RelativeToolTip": "Kurlar.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:24:28.462Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Home.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Home.xaml.cs",
+              "RelativeDocumentMoniker": "Home.xaml.cs",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\Home.xaml.cs",
+              "RelativeToolTip": "Home.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:24:28.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "HavaDurumu.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\HavaDurumu.xaml.cs",
+              "RelativeDocumentMoniker": "HavaDurumu.xaml.cs",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\HavaDurumu.xaml.cs",
+              "RelativeToolTip": "HavaDurumu.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-13T17:24:28.307Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "FinalOdev2.csproj.user",
+              "DocumentMoniker": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\FinalOdev2.csproj.user",
+              "RelativeDocumentMoniker": "FinalOdev2.csproj.user",
+              "ToolTip": "C:\\Users\\eminedemir\\Downloads\\BSM322-Baha2024-FP2-master\\BSM322-Baha2024-FP2-master\\FinalOdevMaui\\FinalOdev2.csproj.user",
+              "RelativeToolTip": "FinalOdev2.csproj.user",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003464|",
+              "WhenOpened": "2025-01-13T17:24:27.531Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
